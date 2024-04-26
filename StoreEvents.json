@@ -262,7 +262,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,12 +272,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -317,7 +317,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
@@ -327,7 +327,7 @@
 	},
 	{
 		"abr": "replacetrait",
-		"price": 1,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -352,32 +352,32 @@
 	},
 	{
 		"abr": "backpack",
-		"price": 1,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "settraits",
-		"price": 1,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "cleartraits",
-		"price": 1,
+		"price": 0,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "use",
-		"price": 1,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "wear",
-		"price": 1,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "equip",
-		"price": 1,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
